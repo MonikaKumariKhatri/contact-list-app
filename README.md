@@ -9,4 +9,5 @@ Run `npm start` for a dev server. Navigate to `http://localhost:3000/`. The app 
 This application has 2 main links from Home Page -
 
 About - This is the About page
+
 Contacts - This will show us the list of contacts, which will help us manipulate the contacts
